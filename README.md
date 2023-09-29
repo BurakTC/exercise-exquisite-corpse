@@ -20,3 +20,5 @@ They enjoyed riding through the city in the red buses.
 >>>>>>> bc7a8c6b5d0fda0dd9270752ff2227c13da99613
 
 Il était une fois un dragon solitaire nommé Drako. Il vivait dans une grotte au sommet d'une montagne, gardant un trésor scintillant. Les villageois le craignaient, mais Drako était en réalité un dragon gentil et solitaire.
+
+Once upon a time, there was a peaceful kingdom nestled within the embrace of majestic mountains. Its inhabitants lived in harmony with the mystical creatures that populated these lands. Among them, the dragons stood out for their grandeur and power.
