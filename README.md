@@ -18,3 +18,5 @@ They enjoyed riding through the city in the red buses.
 >>>>>>> 21e702dff1ef1c60a24a388ec7df55709193740a
 >>>>>>> 3f2463105c7c5ee80d7cd0c81bcc57867859af5c
 >>>>>>> bc7a8c6b5d0fda0dd9270752ff2227c13da99613
+
+Il était une fois un dragon solitaire nommé Drako. Il vivait dans une grotte au sommet d'une montagne, gardant un trésor scintillant. Les villageois le craignaient, mais Drako était en réalité un dragon gentil et solitaire.
